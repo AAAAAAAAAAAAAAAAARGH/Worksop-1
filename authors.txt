@@ -1,2 +1,6 @@
 Fabien Rozar
+<<<<<<< HEAD
 HOAREAU Hugo
+=======
+Marc Raybaud
+>>>>>>> 62ad992b226dd9a4413f94b3639a2d3ecf39a596
