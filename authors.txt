@@ -1,6 +1,3 @@
 Fabien Rozar
-<<<<<<< HEAD
 Marc Raybaud
-=======
-Marc Raybaud
->>>>>>> Marc-Raybaud
+HOAREAU Hugo
